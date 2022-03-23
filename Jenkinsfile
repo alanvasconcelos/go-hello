@@ -2,7 +2,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'echo AlanSidney'
+                sh 'echo AlanSidneyDoNascimento'
             }
         }
     }
